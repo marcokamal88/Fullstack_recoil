@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-social-login-buttons": "^4.1.0",
+    "reactjs-social-login": "^2.6.3"
+  }
+}
